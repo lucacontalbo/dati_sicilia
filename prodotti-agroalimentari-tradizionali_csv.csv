@@ -1,6 +1,6 @@
 Tipologia,N,Prodotto,Voto medio
 "Bevande analcoliche, distillati e liquori",1,Amarena,4
-"Bevande analcoliche, distillati e liquori",2,"Acquavite di miele iblea, Spiritu re' fascitrari, Spiritu i meli, Spiritu a cira",9
+"Bevande analcoliche, distillati e liquori",2,"Acquavite di miele iblea, Spiritu re' fascitrari, Spiritu i meli, Spiritu a cira",8
 "Bevande analcoliche, distillati e liquori",3,Acquavite di vino,4
 "Bevande analcoliche, distillati e liquori",4,Liquore al mandarino,2
 "Bevande analcoliche, distillati e liquori",5,Liquore fuoco dell'Etna,9
@@ -9,7 +9,7 @@ Carni (e frattaglie) fresche e loro preparazione,7,"Gelatina di maiale, a Liatin
 Carni (e frattaglie) fresche e loro preparazione,8,"Salsiccia di maiale fresca, secca e affumicata, a sausizza",0
 Carni (e frattaglie) fresche e loro preparazione,9,Salsiccia pasqualora,0
 Carni (e frattaglie) fresche e loro preparazione,10,"Salsiccia pasqualora partinicese, sasizza pasqualora partinicese",6
-Carni (e frattaglie) fresche e loro preparazione,11,Salsiccione,10
+Carni (e frattaglie) fresche e loro preparazione,11,Salsiccione,8
 Grassi,12,Olio extravergine di oliva,4
 Condimenti,13,Elioconcentrato,1
 Condimenti,14,Sale marino naturale,1
@@ -43,7 +43,7 @@ Prodotti vegetali allo stato naturale o trasformati,41,Albicocco di Scillato,6
 Prodotti vegetali allo stato naturale o trasformati,42,Alloro,7
 Prodotti vegetali allo stato naturale o trasformati,43,Anguria di Siracusa,0
 Prodotti vegetali allo stato naturale o trasformati,44,Arancia biondo di Scillato,8
-Prodotti vegetali allo stato naturale o trasformati,45,Bastarduna di Calatafimi,10
+Prodotti vegetali allo stato naturale o trasformati,45,Bastarduna di Calatafimi,7
 Prodotti vegetali allo stato naturale o trasformati,46,Capperi,9
 Prodotti vegetali allo stato naturale o trasformati,47,Capperi e cucunci,8
 Prodotti vegetali allo stato naturale o trasformati,48,Carciofo spinoso di Palermo o Menfi,0
@@ -94,7 +94,7 @@ Prodotti vegetali allo stato naturale o trasformati,92,Oliva Nebba,0
 Prodotti vegetali allo stato naturale o trasformati,93,Oliva nera di Buccheri,7
 Prodotti vegetali allo stato naturale o trasformati,94,Oliva nera passuluni,2
 Prodotti vegetali allo stato naturale o trasformati,95,Origano,6
-Prodotti vegetali allo stato naturale o trasformati,96,Ovaletto di Calatafimi,10
+Prodotti vegetali allo stato naturale o trasformati,96,Ovaletto di Calatafimi,6
 Prodotti vegetali allo stato naturale o trasformati,97,Patata novella di Messina,0
 Prodotti vegetali allo stato naturale o trasformati,98,Patata novella di Siracusa,10
 Prodotti vegetali allo stato naturale o trasformati,99,Pere butirra d'estate,5
@@ -103,8 +103,8 @@ Prodotti vegetali allo stato naturale o trasformati,101,Pere ucciardona,5
 Prodotti vegetali allo stato naturale o trasformati,102,Pere virgola,0
 Prodotti vegetali allo stato naturale o trasformati,103,Pistacchio,1
 Prodotti vegetali allo stato naturale o trasformati,104,Pomodoro di Vittoria,3
-Prodotti vegetali allo stato naturale o trasformati,105,"Pomodoro faino di Licata detto \buttichieddu\""""",10
-Prodotti vegetali allo stato naturale o trasformati,106,Pomodoro seccagno pizzutello di Paceco,10
+Prodotti vegetali allo stato naturale o trasformati,105,"Pomodoro faino di Licata detto \buttichieddu\""""",9
+Prodotti vegetali allo stato naturale o trasformati,106,Pomodoro seccagno pizzutello di Paceco,9
 Prodotti vegetali allo stato naturale o trasformati,107,Pomodoro secco (ciappa),9
 Prodotti vegetali allo stato naturale o trasformati,108,Rosmarino,2
 Prodotti vegetali allo stato naturale o trasformati,109,"Susina ariddu di core, ariddi ri core, ariddicore",4
@@ -126,7 +126,7 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",125,Biscotto di Monreale (Viscottu ri Murriali),6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",126,"Biscotti glassati, i Viscotta cà liffia o mazziati",7
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",127,Bocconetto,6
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",128,Braccialette,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",128,Braccialette,8
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",129,Buccellato,5
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",130,Cannillieri,4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",131,Cannoli,7
@@ -141,14 +141,14 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",140,"Ciascuna, Mucatuli",3
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",141,"Colombe pasquali, i Palummeddi, Pastifuorti",4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",142,"Cosi di ficu, Cosi duci",8
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",143,Crespelle di riso,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",143,Crespelle di riso,9
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",144,"Crispelle, i Crispeddi",8
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",145,Cuccìa,4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",146,Cucciddata,10
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",147,Cucciddati di Calatafimi,4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",148,Cucuzzata,5
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",149,Cuddrireddra,1
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",150,Cuddriruni,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",150,Cuddriruni,2
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",151,Cuddriruni duci,1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",152,Cuddureddi,3
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",153,Cudduruni di Buccheri,3
@@ -164,7 +164,7 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",163,Granita di mandorla,9
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",164,Guammelle,8
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",165,Guiuggiolena o Cubbiata,1
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",166,Mandorlato (Biscotto riccio),10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",166,Mandorlato (Biscotto riccio),8
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",167,Mastazzola,1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",168,Minna di Virgini,4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",169,Mmugliulati,2
@@ -173,7 +173,7 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",172,Nfasciatiaddi di Troina,1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",173,Nfrigghiulata,6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",174,Nucàtuli,6
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",175,Ossa di morto,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",175,Ossa di morto,7
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",176,Pagnotta alla disgraziata,2
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",177,Pane a lievitazione naturale (Pani cu cruscenti),6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",178,"Pane di casa, u Pani i casa",2
@@ -181,13 +181,13 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",180,Pane di S. Giuseppe,7
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",181,"Pane votivo, a Cuddura di s. paulu",6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",182,Panzerotti,6
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",183,Papareddi,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",183,Papareddi,7
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",184,Pasta alla crema di latte,5
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",185,Pasta di mandorle,2
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",186,Pasta di nocciola,5
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",187,Pasta reale di Erice,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",187,Pasta reale di Erice,9
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",188,Petrafennula,0
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",189,Pignoccata,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",189,Pignoccata,3
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",190,Pignolata di Messina,6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",191,Piparelle,1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",192,Pizzarruna,5
@@ -200,15 +200,15 @@ Prodotti vegetali allo stato naturale o trasformati,117,"Zucchina di Misilmeri d
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",199,Sfinci di San Giuseppe,4
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",200,Sfincione,9
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",201,Sfoglio (sfogghiu),6
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",202,Squartucciatu,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",202,Squartucciatu,6
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",203,Taralli,2
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",204,Testa di turco,2
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",205,"Torrone di Caltanissetta, Turruni",1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",206,"Vastedda cu sammucu, vastedda nfigghiulata",2
-"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",207,Vastedda fritta,10
+"Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",207,Vastedda fritta,1
 "Paste fresche e prodotti della panetteria, della biscotteria, della pasticceria e della confetteria",208,Vucciddati di mandorle,4
 Prodotti della gastronomia,209,Arancini di riso,9
-Prodotti della gastronomia,210,Badduzzi di risu,10
+Prodotti della gastronomia,210,Badduzzi di risu,9
 Prodotti della gastronomia,211,Busiati col pesto trapanese,1
 Prodotti della gastronomia,212,Caciu all'argintèra,8
 Prodotti della gastronomia,213,Caponata di melanzane,5
@@ -223,18 +223,18 @@ Prodotti della gastronomia,221,Frascatula,0
 Prodotti della gastronomia,222,Iris,6
 Prodotti della gastronomia,223,Maccaruna,9
 Prodotti della gastronomia,224,Màccu di favi,8
-Prodotti della gastronomia,225,Maccu di grano,10
+Prodotti della gastronomia,225,Maccu di grano,1
 Prodotti della gastronomia,226,Malateddi,1
 Prodotti della gastronomia,227,'Nfigghiulata,4
 Prodotti della gastronomia,228,Padducculi di carne,6
 Prodotti della gastronomia,229,Pane cotto,9
 Prodotti della gastronomia,230,Panelle,1
 Prodotti della gastronomia,231,Pani co pipi,5
-Prodotti della gastronomia,232,Pani frittu cu l'uovu,10
+Prodotti della gastronomia,232,Pani frittu cu l'uovu,8
 Prodotti della gastronomia,233,Parmigiana di melanzane,0
 Prodotti della gastronomia,234,Pasta cà muddica,10
 Prodotti della gastronomia,235,Pasta che sàrdi,0
-Prodotti della gastronomia,236,Pasta che vruoccoli arriminàti,10
+Prodotti della gastronomia,236,Pasta che vruoccoli arriminàti,4
 Prodotti della gastronomia,237,Sarde a beccaficu,8
 Prodotti della gastronomia,238,Stigghiola,6
 Prodotti della gastronomia,239,Vino cotto e mustazzoli,7
@@ -253,13 +253,13 @@ Prodotti della gastronomia,240,Zuzzu,6
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",252,Miele delle Egadi,10
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",253,Miele delle Madonie,2
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",254,"Miele di acacia, di timo, di carrubo",5
-"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",255,"Miele di timo, di agrumi, di cardo, di eucalyptus, di carrubo",10
+"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",255,"Miele di timo, di agrumi, di cardo, di eucalyptus, di carrubo",3
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",256,Miele di Trapani,6
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",257,Miele ibleo,3
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",258,Miele millefiori,7
-"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",259,Miele della provincia di Agrigento,10
+"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",259,Miele della provincia di Agrigento,4
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",260,Ricotta di pecora,9
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",261,Ricotta di vacca,5
-"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",262,Ricotta iblea,10
+"Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",262,Ricotta iblea,18
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",263,Ricotta infornata,3
 "Prodotti di origine animale (miele, prodotti lattiero caseari di vario tipo escluso il burro)",264,Ricotta mista,9
